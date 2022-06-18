@@ -33,7 +33,7 @@ The most recent release of this tool includes:
 
 ## How to use (Standard textboxes)
 
-Download the most recent release of this tool and extract the contents of the archive INTO your .minecraft folder.<br />
+Download the most recent release of this tool and copy the files INSIDE `mc-textbox-generator-v1.0/` into your .minecraft folder.<br />
 Run the shell script. If bash complains make sure it is marked as executable by running `chmod +x ./maketb.sh` in the .minecraft folder.<br />
 Follow the instructions in the shell script.<br />
 When asked for a speaker image, you can just type `speaker0.png` and `speaker1.png` for the closed and open mouth images.<br />
