@@ -55,7 +55,7 @@ Parameters that are simple to change inside the script are:
 
 
 ## Loosely implemented features
-# Sounds
+### Sounds
 The script offers some support for sounds. The idea is that a short sound can be played for every character displayed in the text box in a style similar to that used in games such as Undertale and Animal Crossing.
 At present the script assigns hard-coded names for the sounds the play. The names of the sounds correspond to the specific text character. The table below shows the sound files in `resourcepacks/<packname>/assets/<namespace>/sounds/voices`
 ![sounds screenshot](./image.png)
